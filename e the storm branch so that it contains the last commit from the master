@@ -1,0 +1,63 @@
+[33mcommit 8201eb50c98dbc47c7afeec883f3e20af5e165d0[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;33mtag: session1[m[33m)[m
+Author: Igor Rudenko <lexmaritime@gmail.com>
+Date:   Wed May 4 11:33:35 2022 +0300
+
+    1st commit in Pursuit branch
+
+[33mcommit 351fe083bcb0dd88e98254798561084b5e7f7d40[m
+Author: Igor Rudenko <lexmaritime@gmail.com>
+Date:   Wed May 4 11:27:14 2022 +0300
+
+    After merge branch
+
+[33mcommit a7e6725032a102821edd53e9ac86dc7d84409d75[m
+Merge: c13e109 284b1c9
+Author: Igor Rudenko <lexmaritime@gmail.com>
+Date:   Wed May 4 11:26:43 2022 +0300
+
+    Merge branch 'feature'
+    
+    # Conflicts:
+    #       arrows.txt
+
+[33mcommit c13e1096448129d1e9ced49b32435b126264acdf[m
+Author: Igor Rudenko <lexmaritime@gmail.com>
+Date:   Wed May 4 11:06:02 2022 +0300
+
+    Commin new file in MAIN
+
+[33mcommit 284b1c9dabd0593b375be3f1f55eb2a5b97827d2[m[33m ([m[1;32mfeature[m[33m)[m
+Author: Igor Rudenko <lexmaritime@gmail.com>
+Date:   Wed May 4 11:01:20 2022 +0300
+
+    commit new file
+
+[33mcommit 4f5eceb12a15aa11dc3bbcdb284e93929fea977a[m
+Author: Igor Rudenko <lexmaritime@gmail.com>
+Date:   Wed May 4 10:58:18 2022 +0300
+
+    Second commit to branch feature - 4th verse
+
+[33mcommit dad2b1eafaa2ad56a653cc32106ff6bafb13e9c3[m
+Author: Igor Rudenko <lexmaritime@gmail.com>
+Date:   Wed May 4 10:55:06 2022 +0300
+
+    first commint in branch feature - 3rd verse
+
+[33mcommit 2e8d93561ae39215f3417daf618dc6c4f134fcea[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Igor Rudenko <96593296+DraftRoyal@users.noreply.github.com>
+Date:   Wed May 4 10:28:44 2022 +0300
+
+    finish my song
+
+[33mcommit 4268d9173a2795e213691adb48299c493fdae05d[m
+Author: Igor Rudenko <lexmaritime@gmail.com>
+Date:   Wed May 4 10:12:43 2022 +0300
+
+    add first half of my favorite song
+
+[33mcommit 244d7dbad24a1d95e11bee798d49441aa61f7070[m
+Author: Igor Rudenko <96593296+DraftRoyal@users.noreply.github.com>
+Date:   Wed May 4 09:48:46 2022 +0300
+
+    Initial commit
